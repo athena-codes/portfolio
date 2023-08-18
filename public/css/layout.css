@@ -183,7 +183,7 @@ ul#nav li a:active {
 }
 
 ul#nav li.current a {
-   color: #cd8ef7;
+   color: rgba(199, 199, 199, 0.321);
 }
 
 
@@ -1077,7 +1077,6 @@ call-to-action .button {
    margin: 12px 0;
    color: #EBEEEE;
    display: inline-block;
-   float: left;
    width: 26%;
 }
 
